@@ -1,3 +1,7 @@
+# Visual Studio Code
+
+  * [VS Code Tips and Tricks](https://github.com/Microsoft/vscode-tips-and-tricks/blob/master/README.md)
+
 # Gulp
 
 * Gulp 學習 series
