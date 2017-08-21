@@ -1,5 +1,18 @@
 # F2E Learning Resources
 
+## JavaScript
+
+* [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+### React
+
+* [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
+
+### Next.js
+
+* [Next.js](https://github.com/zeit/next.js)
+* [Learning Next.js](https://learnnextjs.com/)
+
 ## Markdown
 
 * [Formatting and Markdown Guide](http://genius.com/Genius-formatting-and-markdown-guide-annotated)
